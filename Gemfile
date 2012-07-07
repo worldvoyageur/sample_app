@@ -10,7 +10,7 @@ gem 'thin'
 
 group :development do
   gem 'pg'
-  gem 'annotate'
+  gem 'annotate', '2.4.1.beta1'
 end
 
 # Gems used only for assets and not required
